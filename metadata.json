@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SCL Baulogistik Academy",
+  "description": "AI-powered training platform for sustainable construction logistics, featuring adaptive learning paths and glassmorphic design.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
